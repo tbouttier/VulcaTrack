@@ -1,0 +1,21 @@
+"Instrument","Nom=","nanodac",,"Numéro de série =","0",,"Version du logiciel = ","V8.14"
+,"Adresse MAC =","00:0A:8D:FF:12:F2",,"Langue =","FR",,"Pays =","FR",,"Fuseau horaire =","GMT"
+"NomGroupe","Group 1"
+"Temperature","Bas =",0.0,"Haut =",300.0,"Unité =","°C"
+"TC1","Bas =",0.0,"Haut =",300.0,"Unité =","°C"
+"TC2","Bas =",0.0,"Haut =",300.0,"Unité =","°C"
+"TC3","Bas =",0.0,"Haut =",300.0,"Unité =","°C"
+"Consigne","Bas =",0.0,"Haut =",300.0,"Unité =","°C"
+"Puissance de chauffa","Bas =",0,"Haut =",100,"Unité =",""
+"Date/Heure",,"Temperature","TC1","TC2","TC3","Consigne","Puissance de chauffa"
+,,"°C","°C","°C","°C","°C",""
+"07/05/21 09:45:00",,86.2,">Gamme",">Gamme",">Gamme",0.0,0
+"07/05/21 09:45:10",,86.1,">Gamme",">Gamme",">Gamme",0.0,0
+"07/05/21 09:45:20",,86.0,">Gamme",">Gamme",">Gamme",0.0,0
+"07/05/21 09:45:30",,85.9,">Gamme",">Gamme",">Gamme",0.0,0
+"07/05/21 09:45:40",,85.8,">Gamme",">Gamme",">Gamme",0.0,0
+"07/05/21 09:45:50",,85.7,">Gamme",">Gamme",">Gamme",0.0,0
+"07/05/21 09:46:00",,85.7,">Gamme",">Gamme",">Gamme",0.0,0
+"07/05/21 09:46:10",,85.6,">Gamme",">Gamme",">Gamme",0.0,0
+"07/05/21 09:46:20",,85.5,">Gamme",">Gamme",">Gamme",0.0,0
+"07/05/21 09:46:30",,85.4,">Gamme",">Gamme",">Gamme",0.0,0
